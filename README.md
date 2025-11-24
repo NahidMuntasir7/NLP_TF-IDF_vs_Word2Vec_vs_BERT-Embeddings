@@ -7,7 +7,7 @@ This project compares three different text representation methods for sentiment 
 |-----------------|---------------|---------|--------------------|
 | TF–IDF + LR     | **0.8905**    | **0.8910** | 22.17 |
 | Word2Vec + LR   | 0.8299        | 0.8295 | 43.23 |
-| BERT Emb + LR   | 0.8236        | 0.8190 | 948.31 |
+| BERT Embeddings + LR   | 0.8236        | 0.8190 | 948.31 |
 
 ## Key Findings
 - **TF–IDF + Logistic Regression** performed the best, achieving the highest accuracy and F1-score.
