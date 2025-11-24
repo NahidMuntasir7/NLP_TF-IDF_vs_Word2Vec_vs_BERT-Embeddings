@@ -13,7 +13,7 @@ This project compares three different text representation methods for sentiment 
 - **TF–IDF + Logistic Regression** performed the best, achieving the highest accuracy and F1-score.
 - **Word2Vec + Logistic Regression** gave moderate results. Averaging word vectors caused loss of contextual information.
 - **BERT Embeddings + Logistic Regression** underperformed because only pre-trained embeddings were used without fine-tuning.
-- More complex embeddings did **not** necessarily improve results — TF–IDF was both the most accurate and the fastest to train.
+- More complex embeddings did **not** necessarily improve results. TF–IDF was both the most accurate and the fastest to train.
 
 ## What the Project Demonstrates
 - Effects of classical vs. modern text representation methods.
