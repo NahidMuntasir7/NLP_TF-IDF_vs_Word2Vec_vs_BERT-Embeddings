@@ -1,6 +1,6 @@
 # Sentiment Classification Project
 
-This project compares three different text representation methods for sentiment analysis — **TF–IDF**, **Word2Vec**, and **BERT Embeddings** — all trained using a **Logistic Regression** classifier. The goal is to evaluate how different feature extraction techniques influence performance.
+This project compares three different text representation methods for sentiment analysis **TF–IDF**, **Word2Vec**, and **BERT Embeddings** — all trained using a **Logistic Regression** classifier. The goal is to evaluate how different feature extraction techniques influence performance.
 
 ## Results Summary
 | Method          | Test Accuracy | Test F1 | Training Time (s) |
